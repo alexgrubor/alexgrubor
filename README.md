@@ -5,10 +5,11 @@
   <img align="left" alt="Aleksandra's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br>
-👋 Hi, I’m Aleksandra 
--👀 I’m interested in Web design, WEb Development and Graphic design 
--🌱 I’m currently learning Full Stack MERN Web development at Digital Career Institute 
--💞️ I’m looking to collaborate on any web development projects 
+- 👋 Hi, I’m Aleksandra, web developer based In Essen, Germany. 
+- 👀 I’m interested in Web design, WEb Development and Graphic design 
+- 🌱 I’m currently learning Full Stack MERN Web development at Digital Career Institute 
+- 💞️ I’m looking to collaborate on any web development projects 
+                                    
                                     
                                     
  ![Aleksandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgrubor&show_icons=true&theme=dracula&hide=stars,issues)

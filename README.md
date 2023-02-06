@@ -4,11 +4,11 @@
 <a href="https://www.linkedin.com/in/aleksandragrubordev/">
   <img align="left" alt="Aleksandra's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-- 👋 Hi, I’m Aleksandra 
-- 👀 I’m interested in Web design, WEb Development and Graphic design 
-- 🌱 I’m currently learning Full Stack MERN Web development at Digital Career Institute 
-- 💞️ I’m looking to collaborate on any web development projects 
+<br>
+👋 Hi, I’m Aleksandra 
+👀 I’m interested in Web design, WEb Development and Graphic design 
+🌱 I’m currently learning Full Stack MERN Web development at Digital Career Institute 
+💞️ I’m looking to collaborate on any web development projects 
 
 
  - 💼 any freelance work? do reach, [email](mailto:alexgrubor@gmail.com) :)

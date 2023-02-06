@@ -19,16 +19,10 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgrubor&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
  Other:
-      *Tailwind CSS
-      *Bootstrap 5
-      *React.js
-      *Next.js
-       
-
-       
-    
-
-
+ *Tailwind CSS, 
+ *Bootstrap 5,
+ *React.js,
+ *Next.js
             
 
  - 💼 any freelance work? do reach, [email](mailto:alexgrubor@gmail.com) :)

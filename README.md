@@ -10,6 +10,8 @@
 * 👀 I’m interested in Web design, WEb Development and Graphic design 
 * 🌱 I’m currently learning Full Stack MERN Web development at Digital Career Institute 
 * 💞️ I’m looking to collaborate on any web development projects 
+* 💼 any freelance work? do reach, [email](mailto:alexgrubor@gmail.com) :)
+* 💬 ask me about anything, i am happy to help;
                                     
                                     
  My Github Statistic                                   
@@ -67,8 +69,7 @@
 </td><td valign="top" width="33%">
             
 
- - 💼 any freelance work? do reach, [email](mailto:alexgrubor@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+
 
 <!---
 alexgrubor/alexgrubor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

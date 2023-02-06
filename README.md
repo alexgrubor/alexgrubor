@@ -9,7 +9,7 @@
 -👀 I’m interested in Web design, WEb Development and Graphic design 
 -🌱 I’m currently learning Full Stack MERN Web development at Digital Career Institute 
 -💞️ I’m looking to collaborate on any web development projects 
- ![Aleksandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgrubor&show_icons=true)
+ ![Aleksandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgrubor&show_icons=true&theme=radical)
 
 
 

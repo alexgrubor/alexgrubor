@@ -10,10 +10,9 @@
 -🌱 I’m currently learning Full Stack MERN Web development at Digital Career Institute 
 -💞️ I’m looking to collaborate on any web development projects 
 
-![](https://raw.githubusercontent.com/alexgrubor/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/alexgrubor/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-                                    
+![Aleksandra's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
+            
 
  - 💼 any freelance work? do reach, [email](mailto:alexgrubor@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;

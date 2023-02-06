@@ -11,7 +11,7 @@
 -💞️ I’m looking to collaborate on any web development projects 
 
 
-![Aleksandra's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
+
             
 
  - 💼 any freelance work? do reach, [email](mailto:alexgrubor@gmail.com) :)

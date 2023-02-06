@@ -5,10 +5,11 @@
   <img align="left" alt="Aleksandra's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br>
-- 👋 Hi, I’m Aleksandra, web developer based In Essen, Germany. 
-- 👀 I’m interested in Web design, WEb Development and Graphic design 
-- 🌱 I’m currently learning Full Stack MERN Web development at Digital Career Institute 
-- 💞️ I’m looking to collaborate on any web development projects 
+                                    
+*👋 Hi, I’m Aleksandra, web developer based In Essen, Germany. 
+* 👀 I’m interested in Web design, WEb Development and Graphic design 
+* 🌱 I’m currently learning Full Stack MERN Web development at Digital Career Institute 
+* 💞️ I’m looking to collaborate on any web development projects 
                                     
                                     
  My Github Statistic                                   
@@ -18,10 +19,10 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgrubor&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
  Other:
-      -Tailwind CSS
-      -Bootstrap 5
-      -React.js
-      -Next.js
+      *Tailwind CSS
+      *Bootstrap 5
+      *React.js
+      *Next.js
        
 
        

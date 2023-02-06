@@ -6,9 +6,9 @@
 </a>
 <br>
                                     
-                                    <div align="center">
+                               
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+ 
                                     
 *👋 Hi, I’m Aleksandra, web developer based In Essen, Germany. 
 * 👀 I’m interested in Web design, WEb Development and Graphic design 

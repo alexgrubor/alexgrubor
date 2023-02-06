@@ -11,9 +11,14 @@
 - 💞️ I’m looking to collaborate on any web development projects 
                                     
                                     
-                                    
+ My Github Statistic                                   
  ![Aleksandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgrubor&show_icons=true&theme=dracula&hide=stars,issues)
+       
+ My Top used languages   
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgrubor&exclude_repo=github-readme-stats,anuraghazra.github.io)]
 
+       
+    
 
 
             

@@ -12,7 +12,7 @@
                                     
 *👋 Hi, I’m Aleksandra, web developer based In Essen, Germany. 
 * 👀 I’m interested in Web design, WEb Development and Graphic design 
-* 🌱 I’m currently learning Full Stack MERN Web development at Digital Career Institute 
+* 🌱 I’m currently learning Full Stack MERN Web development at Digital Career Institute GmbH 
 * 💞️ I’m looking to collaborate on any web development projects 
 * 💼 any freelance work? do reach, [email](mailto:alexgrubor@gmail.com) :)
 * 💬 ask me about anything, i am happy to help;

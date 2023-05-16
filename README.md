@@ -12,7 +12,7 @@
                                     
 *👋 Hi, I’m Aleksandra, web developer based In Essen, Germany. 
 * 👀 I’m interested in Web design, Web Development and Graphic design 
-* 🌱 I’m currently learning Full Stack MERN Web development at Digital Career Institute GmbH 
+* 🌱 I’m currently working on Full stack web browser based mulitiplayer UNO GAME, you can check it here  <a href="https://github.com/setazarm/UNO">UNO GAME</>
 * 💞️ I’m looking to collaborate on any web development projects 
 * 💼 any freelance work? do reach, [email](mailto:alexgrubor@gmail.com) :)
 * 💬 ask me about anything, i am happy to help;

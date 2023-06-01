@@ -17,9 +17,7 @@
 * 💼 any freelance work? do reach, [email](mailto:alexgrubor@gmail.com) :)
 * 💬 ask me about anything, i am happy to help;
                                     
-                                    
- My Github Statistic                                   
- ![Aleksandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgrubor&show_icons=true&theme=dracula&hide=stars,issues)
+
        
  My Top used languages   
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgrubor&exclude_repo=github-readme-stats,anuraghazra.github.io)

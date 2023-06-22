@@ -2,7 +2,7 @@
   <img align="left" alt="Aleksandra Grubor" | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/aleksandragrubordev/">
-  <img align="left" alt="Aleksandra's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Aleksandra's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br>
                                     
@@ -10,18 +10,21 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%"/>
  
                                     
-*👋 Hi, I’m Aleksandra, a passionate Full Stack Web Developer with a focus on the MERN stack and Front-end development based in Essen, Germany.
+*👋 Hi, I’m Aleksandra, a passionate Full Stack Web Developer focusing on the MERN stack and Front-end development based in Essen, Germany.
 * My goal is to create captivating and user-friendly web applications. 
 * With a background in graphic design, I bring a unique blend of creativity and technical expertise to my projects.
-* 🌱 I’m currently working on Full stack web browser based mulitiplayer UNO GAME, you can check it here  <a href="https://github.com/setazarm/UNO">UNO GAME</>
-* 💞️ I’m looking for a Front-end developer position or full stack position with main focus on frontend. 
-* 💼 Have some potential offer? do reach, [email](mailto:alexgrubor@gmail.com)
+* 🌱 I’m currently working on Full stack web browser-based multiplayer UNO GAME, you can check it here  <a href="https://github.com/setazarm/UNO">UNO GAME</>
+* I'm actively seeking a Front-end developer or full-stack position with a primary focus on frontend. Have any potential offers? Feel free to reach out to me via [email](mailto:alexgrubor@gmail.com).
 
 
-🌟 My Projects
+### 🌟 My Projects
 
-* Full stack web browser based mulitiplayer UNO GAME, you can check it here  <a href="https://github.com/setazarm/UNO">UNO GAME</>
-* Airbnb Clone: A full-stack Airbnb clone built with Next.js, TypeScript, Prisma, MongoDB, and Tailwind CSS. It features user authentication, property listings, and real-time booking management.
+- [Full stack web browser-based multiplayer UNO GAME](https://github.com/setazarm/UNO)
+- [Airbnb Clone](https://github.com/alexgrubor/airbnb-clone): A full-stack Airbnb clone built with Next.js, TypeScript, Prisma, MongoDB, and Tailwind CSS. It features user authentication, property listings, and real-time booking management.
+- [Assignment Manager](https://github.com/alexgrubor/assignment_tracker): Assignment Tracker is a simple web application that helps you keep track of your assignments for different courses made with PHP, MySQL, HTML, and CSS.
+- [Ecom shop](https://github.com/alexgrubor/ecomfullstack): A full-stack e-commerce shop made with React, Node.js, Express.js, and MongoDB.
+- [Image Generator](https://github.com/alexgrubor/openAI-ImageGenerator/blob/main/package-lock.json): Simple website that generates images from text made with React, OpenAPI, and CSS.
+
 
                                     
 

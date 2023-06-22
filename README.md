@@ -1,5 +1,5 @@
 <a href="https://twitter.com/aleksandrag93">
-  <img align="left" alt="Aleksandra Grubor" | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Aleksandra Grubor" | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/aleksandragrubordev/">
   <img align="left" alt="Aleksandra's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -7,16 +7,22 @@
 <br>
                                     
                                
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%"/>
  
                                     
 *👋 Hi, I’m Aleksandra, a passionate Full Stack Web Developer with a focus on the MERN stack and Front-end development based in Essen, Germany.
 * My goal is to create captivating and user-friendly web applications. 
 * With a background in graphic design, I bring a unique blend of creativity and technical expertise to my projects.
 * 🌱 I’m currently working on Full stack web browser based mulitiplayer UNO GAME, you can check it here  <a href="https://github.com/setazarm/UNO">UNO GAME</>
-* 💞️ I’m looking to collaborate on any web development projects 
-* 💼 any freelance work? do reach, [email](mailto:alexgrubor@gmail.com) :)
-* 💬 ask me about anything, i am happy to help;
+* 💞️ I’m looking for a Front-end developer position or full stack position with main focus on frontend. 
+* 💼 Have some potential offer? do reach, [email](mailto:alexgrubor@gmail.com)
+
+
+🌟 My Projects
+
+* Full stack web browser based mulitiplayer UNO GAME, you can check it here  <a href="https://github.com/setazarm/UNO">UNO GAME</>
+* Airbnb Clone: A full-stack Airbnb clone built with Next.js, TypeScript, Prisma, MongoDB, and Tailwind CSS. It features user authentication, property listings, and real-time booking management.
+
                                     
 
        

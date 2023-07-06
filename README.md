@@ -13,7 +13,7 @@
 *👋 Hi, I’m Aleksandra, a passionate Full Stack Web Developer focusing on the MERN stack and Front-end development based in Essen, Germany.
 * My goal is to create captivating and user-friendly web applications. 
 * With a background in graphic design, I bring a unique blend of creativity and technical expertise to my projects.
-* 🌱 I’m currently working on Full stack web browser-based multiplayer UNO GAME, you can check it here  <a href="https://github.com/setazarm/UNO">UNO GAME</>
+* 🌱 I’m currently learning Angular and making my first project with it, you can check it here  <a href="https://github.com/alexgrubor/myfirstangularapp">RECIPE BOOK</>
 * I'm actively seeking a Front-end developer or full-stack position with a primary focus on frontend. Have any potential offers? Feel free to reach out to me via [email](mailto:alexgrubor@gmail.com).
 
 

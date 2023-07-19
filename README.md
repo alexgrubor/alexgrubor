@@ -1,8 +1,8 @@
 <a href="https://twitter.com/aleksandrag93">
-  <img align="left" alt="Aleksandra Grubor" | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
+Twitter
 </a>
 <a href="https://www.linkedin.com/in/aleksandragrubordev/">
-  <img align="left" alt="Aleksandra's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+LinkedIn
 </a>
 <br>
                                     

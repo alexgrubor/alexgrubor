@@ -10,11 +10,11 @@ LinkedIn
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%"/>
  
                                     
-*👋 Hi, I’m Aleksandra, a passionate Full Stack Web Developer focusing on the MERN stack and Front-end development based in Essen, Germany.
-* My goal is to create captivating and user-friendly web applications. 
-* With a background in graphic design, I bring a unique blend of creativity and technical expertise to my projects.
-* I'm actively seeking a Front-end developer or full-stack position with a primary focus on frontend. Have any potential offers? Feel free to reach out to me via [email](mailto:alexgrubor@gmail.com).
+👋 Hi, I’m Aleksandra, a passionate Full Stack Web Developer based in Essen, Germany, focusing on the MERN stack and Front-end development. With a background in graphic design, I bring a unique blend of creativity and technical expertise to my projects.
 
+My goal is to create captivating and user-friendly web applications. I'm well-versed in the MERN stack (MongoDB, Express.js, React, Node.js) and have a strong foundation in Front-end development. Additionally, I have proficiency in PHP/Laravel and Java, adding to my toolkit for crafting dynamic and robust web solutions.
+
+I'm actively seeking a Front-end developer or full-stack position with a primary focus on frontend. Have any potential offers? Feel free to reach out to me via email. Let's collaborate and bring exciting ideas to life! 🚀
 
 ### 🌟 My Projects
 
